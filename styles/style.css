@@ -75,14 +75,13 @@
   width: 568px;
   right: 0;
   top: 64px;
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
 }
 
 .description {
   display: flex;
   margin: 100px 0 0;
   padding: 0;
-  display: flex;
   justify-content: center;
   position: relative;
 }
