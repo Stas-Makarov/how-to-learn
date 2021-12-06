@@ -1,0 +1,7 @@
+.video__iframes {
+    display: flex;
+    height: 316px;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0 auto;
+}

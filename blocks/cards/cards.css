@@ -1,0 +1,13 @@
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    width: 920px;
+    margin: 0 auto;
+    padding: 0;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.cards:nth-of-type(2n) {
+    margin: 0 100px;
+}
