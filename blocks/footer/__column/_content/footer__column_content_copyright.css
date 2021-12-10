@@ -2,7 +2,8 @@
     display: flex;
     position: relative;
     flex-basis: 711px;
-    align-items: flex-end;
+    flex-direction: column;
+    justify-content: space-between;
     margin: 0;
     padding: 0;
   }
